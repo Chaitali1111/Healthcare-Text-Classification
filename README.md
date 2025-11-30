@@ -1,4 +1,4 @@
-# 🩺 Healthcare Text Classification – FastAPI NLP Project
+# 🩺 Healthcare Text Classification
 
 This project is an end-to-end **NLP text classification system** for healthcare domain.  
 It takes a **clinical / healthcare text input** (e.g., symptoms, notes, findings) and predicts the most relevant **medical specialty** (e.g., Cardiology, Neurology, Orthopedics, Gastroenterology, etc.).
